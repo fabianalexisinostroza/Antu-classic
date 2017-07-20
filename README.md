@@ -1,6 +1,6 @@
 # Antü Classic icon Theme
 
-![Antü Classic preview](https://pinguinosyuncafe.files.wordpress.com/2017/07/antu-classic.png)
+![Antü Classic preview](https://pinguinosyuncafe.files.wordpress.com/2017/07/antu-classic1.png)
 
 ## Welcome to the classic and original Antü icon theme
 
