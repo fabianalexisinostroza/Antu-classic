@@ -24,4 +24,4 @@ The icon theme will be in the Setiings for select
 
 # Reporting icons
 
-This repository is for re-share my original work. All the efforts are in the new release of Antü (aka Antü II). The Classic theme is finished in development, don't wait new releases.
+This repository is for re-share my original work. All the efforts are in the new release [**Antü II**](https://github.com/fabianalexisinostroza/Antu-icons). The Classic theme is finished in development, don't wait new releases.
