@@ -1,4 +1,4 @@
-![https://pinguinosyuncafe.files.wordpress.com/2018/06/antc3bc-classic.png)
+![Antü preview](https://pinguinosyuncafe.files.wordpress.com/2018/06/antc3bc-classic.png)
 
 ## Welcome to the classic and original Antü icon theme
 
