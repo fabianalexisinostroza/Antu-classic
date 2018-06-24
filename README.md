@@ -26,7 +26,7 @@ The icon theme will be in the Setiings for select
 
 This repository is for re-share my original work. All the efforts are in the new release:
 
-On Gitlab [**Antü II**](https://gitlab.com/froodo_alexis/Antu-icons).
-On Github [**Antü II**](https://github.com/fabianalexisinostroza/Antu-icons).
+* On Gitlab [**Antü II**](https://gitlab.com/froodo_alexis/Antu-icons)
+* On Github [**Antü II**](https://github.com/fabianalexisinostroza/Antu-icons)
 
 ## The Classic theme is finished in development, don't wait new releases.
