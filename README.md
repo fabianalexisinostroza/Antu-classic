@@ -10,7 +10,7 @@ The icons are licensed under the LGPL 2.1 License
 For testing you can clone the repository or download directly. Clone using your terminal.
 
 * In a Terminal run: 
-  * `git clone https://gitlab.com/froodo_alexis/Antu-classic`
+  * `git clone + URL`
 
 If you want the latest release, alternatively click here [**here**](https://gitlab.com/froodo_alexis/Antu-classic/tags)
 
@@ -24,4 +24,9 @@ The icon theme will be in the Setiings for select
 
 # Reporting icons
 
-This repository is for re-share my original work. All the efforts are in the new release [**Antü II**](https://gitlab.com/froodo_alexis/Antu-icons). The Classic theme is finished in development, don't wait new releases.
+This repository is for re-share my original work. All the efforts are in the new release:
+
+On Gitlab [**Antü II**](https://gitlab.com/froodo_alexis/Antu-icons).
+On Github [**Antü II**](https://github.com/fabianalexisinostroza/Antu-icons).
+
+## The Classic theme is finished in development, don't wait new releases.
